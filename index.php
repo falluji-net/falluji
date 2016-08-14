@@ -299,7 +299,7 @@ echo'
 <b>
 <font size="20" color="red">-=[</font><a class="sec" href=""><font color="orange" size="20">ღخاص لشہٰوشہٰة آل حہٰمہٰدانღ</font></a></b> <font size="20" color="red"></font>
 <b>
-<a class="sec" href=""><font color="orange" size="20">Aboud </font></a></b><font size="20" color="red">]=-</font></marquee><br />
+<a class="sec" href=""><font color="orange" size="20"></font></a></b><font size="20" color="red">]=-</font></marquee><br />
 </h2></div>';
 } 
 
